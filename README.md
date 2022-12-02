@@ -46,6 +46,10 @@ DAOs, especially those also functioning as business entities, often fail to impl
 8. jQuery
 9. Firebase
 
+
+# Demo
+[Video](https://www.youtube.com/watch?v=fMtHxLdnmAE)
+
 # Team
 
 1. Ishaan Parmar: Ishaan is a curious enough web3 developer who has contributed to Ethereum code.
